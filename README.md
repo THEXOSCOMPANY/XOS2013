@@ -9,3 +9,10 @@ This is the readme for the XOS 2013 repo found in github.
 4. Accept terms of use
 5. Install
 6. COMPLETE
+
+LINKS FOR DOWNLOAD
+==================
+
+-NO LONGER AVAILABLE-
+PLEASE USE XOS 2014
+====================
